@@ -21,7 +21,7 @@ This project presents an in-depth sales analysis of a fictional electronics reta
 
 ## 📊 Key Findings
 
-- 📈 **April** was the highest-grossing month, generating over \$3.3M in sales.
+- 📈 **December** was the highest-grossing month, generating the highest overall revenue.
 - 🌆 **San Francisco** led in product sales volume.
 - ⏰ Customer purchase activity peaked around **11 AM and 7 PM**.
 - 🔌 **iPhone and Lightning Charging Cable** were frequently purchased together.
